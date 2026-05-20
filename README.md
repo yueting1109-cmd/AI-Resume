@@ -1,0 +1,1 @@
+AI Resume is a platform designed for fresh graduates and job seekers who want to apply for jobs but do not know how to create a professional resume. The website helps users generate well-structured and attractive resumes easily with the support of AI technology.
